@@ -2,12 +2,12 @@
 #main-navbar {
   background-color: #a134c2;
   overflow: hidden;
-  width: 101%;
+  width: 80%;
   display: block;
 }
 
 #navbar-container {
-  float: center;
+  float: left;
   width: 80%;
   position: relative;
   display:block;
@@ -18,11 +18,11 @@
   margin: 0;
   padding: 0;
   position: relative;
-  float: center;
+  float: left;
 }
 
 #main-navbar ul li {
-  float: center;
+  float: left;
   position: relative;
   right: 50%;
   display: block;
@@ -46,7 +46,7 @@
   font-family: "Rubik", sans-serif;
   font-weight: 450;
   font-style: underline;
-  color: #b274c4;
+  color: #fefaff;
 }
 
 .body {
