@@ -44,8 +44,9 @@
 
 #onpage {
   font-family: "Rubik", sans-serif;
-  font-weight: 450;
-  display: block;
+  font-weight: 550;
+  font-style:normal;
+  font-size: 2em;
   color: #b274c4;
 }
 
@@ -56,16 +57,17 @@
   color: #fefaff;
 }
 
-.bowlby-one-titles {
-  font-family: "Bowlby One SC", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color: #fefaff;
-}
-
 .creepster-regular {
   font-family: "Creepster", system-ui;
   font-weight: 400;
   font-style: normal;
   color:#fefaff;
+}
+
+.rubik-title {
+  font-family: "Rubik", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+  color: #fefaff;
+  font-size:2em;
 }
